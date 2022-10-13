@@ -1,0 +1,15 @@
+{
+  "name": "npm-no-lockfile-nodemodules",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "4.0.0"
+  },
+  "devDependencies": {}
+}
